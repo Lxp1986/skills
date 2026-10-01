@@ -1,0 +1,110 @@
+{
+  "repo": "Lxp1986/skills",
+  "updated": "2026-10-02",
+  "format": "skill-directory",
+  "skills": [
+    {
+      "name": "team",
+      "description": "",
+      "path": "team/",
+      "entry": "team/SKILL.md",
+      "files": [
+        "team/SKILL.md"
+      ]
+    },
+    {
+      "name": "minfadian",
+      "description": "中华人民共和国民法典知识库（China Civil Code, 2021年施行，7编1260条）。法务助手：合同审查与违约、物权与担保（抵押/质押/留置）、侵权责任（用工/产品/场所/网络）、婚姻家庭财产与继承、诉讼时效。用当用户咨询中国民商事法律问题、审合同、设担保、处理纠纷、做合规时。",
+      "path": "minfadian/",
+      "entry": "minfadian/SKILL.md",
+      "files": [
+        "minfadian/SKILL.md",
+        "minfadian/chapters/ch01-zongze.md",
+        "minfadian/chapters/ch02-wuquan.md",
+        "minfadian/chapters/ch03-hetong.md",
+        "minfadian/chapters/ch04-rengequan.md",
+        "minfadian/chapters/ch05-hunyin.md",
+        "minfadian/chapters/ch06-jicheng.md",
+        "minfadian/chapters/ch07-qinquan.md",
+        "minfadian/cheatsheet.md",
+        "minfadian/glossary.md",
+        "minfadian/patterns.md",
+        "minfadian/source-map.md"
+      ]
+    },
+    {
+      "name": "wallet-risk",
+      "description": "加密货币钱包风险筛查：查地址 AML 信号、制裁/黑名单、混币关联、恶意授权、貔貅盘等人为风险。覆盖 OTC 收款前、交易所入金前、交互 DApp 前三类筛查场景，含信号解读与数据源选用。Use when screening a crypto wallet address for risk, reviewing exchange deposit safety, or checking token approvals.",
+      "path": "wallet-risk/",
+      "entry": "wallet-risk/SKILL.md",
+      "files": [
+        "wallet-risk/SKILL.md",
+        "wallet-risk/cheatsheet.md",
+        "wallet-risk/scenarios.md",
+        "wallet-risk/signals.md"
+      ]
+    },
+    {
+      "name": "yingxiangli",
+      "description": "西奥迪尼《影响力》七原则：互惠、承诺一致、社会认同、喜好、权威、稀缺、认同。用于说服、谈判、方案设计：每条原则含进攻用法与防守识别。Use when persuading, negotiating, designing offers, or detecting manipulation. Triggers: 影响力, Cialdini, 西奥迪尼, 说服, persuasion, 顺从.",
+      "path": "yingxiangli/",
+      "entry": "yingxiangli/SKILL.md",
+      "files": [
+        "yingxiangli/SKILL.md",
+        "yingxiangli/plays.md",
+        "yingxiangli/principles.md"
+      ]
+    },
+    {
+      "name": "renxing-ruodian",
+      "description": "卡耐基《人性的弱点》：与人相处的三大基本原则、六种让人喜欢、十二种说服、九种改变他人不伤感情。用于谈判、带团队、搞关系、化冲突。Use when handling people, negotiating, leading a team, or resolving conflict. Triggers: 人性的弱点, 卡耐基, Carnegie, 做人, 处世, 搞关系.",
+      "path": "renxing-ruodian/",
+      "entry": "renxing-ruodian/SKILL.md",
+      "files": [
+        "renxing-ruodian/SKILL.md",
+        "renxing-ruodian/principles.md",
+        "renxing-ruodian/tactics.md"
+      ]
+    },
+    {
+      "name": "houheixue",
+      "description": "李宗吾《厚黑学》心法库：脸厚心黑的操作化定义、三步功夫三层境界（厚如城墙→厚而硬→厚而无形）、求官做官十二字真言、办事二妙法（锯箭法/补锅法）。用于谈判心态建设、组织生存、商战转译：解决\"脸皮薄不敢争\"的问题，含李宗吾自设的边界。Use when building negotiation nerve, surviving organizations, or translating houhei tactics to business. Triggers: 厚黑学, 李宗吾, 脸厚心黑, 心法, 权谋, 厚黑.",
+      "path": "houheixue/",
+      "entry": "houheixue/SKILL.md",
+      "files": [
+        "houheixue/SKILL.md",
+        "houheixue/banshi.md",
+        "houheixue/cheatsheet.md",
+        "houheixue/shangzhan.md",
+        "houheixue/xinfa.md",
+        "houheixue/zhenyan.md"
+      ]
+    },
+    {
+      "name": "guiguzi",
+      "description": "《鬼谷子》纵横家说术：捭阖开合、揣情摩意、飞箝游说、抵巇战机、决疑断事。用于谈判、游说、话术设计、识人、博弈推演。Use when persuading, negotiating, reading people, designing talking points, or gaming out an opponent. Triggers: 鬼谷子, 捭阖, 揣摩, 游说, 话术, 谈判, 纵横家.",
+      "path": "guiguzi/",
+      "entry": "guiguzi/SKILL.md",
+      "files": [
+        "guiguzi/SKILL.md",
+        "guiguzi/baihe.md",
+        "guiguzi/chaqing.md",
+        "guiguzi/cheatsheet.md",
+        "guiguzi/shuofu.md",
+        "guiguzi/zhanyi.md"
+      ]
+    },
+    {
+      "name": "sunzi",
+      "description": "《孙子兵法》十三篇战略知识库：庙算、诡道、虚实、形与势、知彼知己、不战而屈人之兵、用间。用于竞争战略、商业决策、谈判、博弈推演。Use for strategy, competition, business decisions, negotiation. Triggers: 孙子兵法, 孙子, 战略, 竞争, 庙算, 虚实, strategy, Sun Tzu.",
+      "path": "sunzi/",
+      "entry": "sunzi/SKILL.md",
+      "files": [
+        "sunzi/SKILL.md",
+        "sunzi/cheatsheet.md",
+        "sunzi/jingshang.md",
+        "sunzi/zhanlue.md"
+      ]
+    }
+  ]
+}
