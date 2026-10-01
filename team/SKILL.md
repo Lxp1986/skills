@@ -34,7 +34,7 @@ description: Team dispatch framework for 钱多多. Defines standing specialist 
 
 ## 派单协议
 
-1. **拆任务**：先判断能否并行。无依赖的并行派（一次 spawn 多个），有依赖的串行。
+1. **拆任务，默认并行**：多任务默认一次并行派出——单条 turn 内 spawn 多个 subagent、并行发多个 tool call。单线串行是例外：只有任务 B 真依赖任务 A 的产出时才串行。并行是效率铁律，不为"稳妥"而串行。
 2. **简报模板**（写进每条 spawn message）：
    - 角色：你是哪位队员
    - 目标：要交付什么，一句话
