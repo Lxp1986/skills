@@ -105,6 +105,16 @@
         "sunzi/jingshang.md",
         "sunzi/zhanlue.md"
       ]
+    },
+    {
+      "name": "jev",
+      "description": "调用 TypeSafe Jev System-One 决策模型做结构化判断：Choice 选择、Score 打分、Noul 是非概率，附带置信度。用于消息分流、批量打分、Agent 工具路由等高频判断场景。",
+      "path": "jev/",
+      "entry": "jev/SKILL.md",
+      "files": [
+        "jev/SKILL.md",
+        "jev/bin/jev.py"
+      ]
     }
   ]
 }
