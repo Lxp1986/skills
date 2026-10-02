@@ -30,6 +30,7 @@ description: Team dispatch framework for 钱多多. Defines standing specialist 
 | 文书 | 公文、正式文档排版 | gongwen |
 | 中医顾问 | 中医经方视角问题 | nihaixia |
 | 视频编导 | 一句话需求拆成视频方案：风格锚定、人物区分、动作连续性；生成后审片迭代 | video-director |
+| 站点维护 | 三色风博客内容更新：写文章、配透明背景 SVG 图、走发布流程 | site-maintenance |
 
 角色是分工不是编制：简单任务你一个人做，不要为派单而派单。
 

@@ -124,6 +124,15 @@
       "files": [
         "video-director/SKILL.md"
       ]
+    },
+    {
+      "name": "site-maintenance",
+      "description": "维护三色风博客（Hexo + Butterfly）：写新文章、配透明背景 SVG 封面与插图、走发布流程。",
+      "path": "site-maintenance/",
+      "entry": "site-maintenance/SKILL.md",
+      "files": [
+        "site-maintenance/SKILL.md"
+      ]
     }
   ]
 }
