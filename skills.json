@@ -115,6 +115,15 @@
         "jev/SKILL.md",
         "jev/bin/jev.py"
       ]
+    },
+    {
+      "name": "video-director",
+      "description": "视频编导：把用户一句话需求拆成可执行的视频生成方案，负责风格锚定、人物区分、动作连续性，生成后审片并迭代。",
+      "path": "video-director/",
+      "entry": "video-director/SKILL.md",
+      "files": [
+        "video-director/SKILL.md"
+      ]
     }
   ]
 }
