@@ -27,3 +27,7 @@
 - 本地 `~/workspace/skills/<name>/` 与本仓库保持同步；新增或大改 skill 时同步推送。
 - 新增 skill 时同步更新 `skills.json` 索引。
 - 内容均为原创提炼，不含受版权保护的完整正文或译文；公版书 skill 已在 SKILL.md 注明底本。
+
+## 博客
+
+配套实战教程见 [三色风博客](https://www.lxpyll.top)——《从 0 写出第一个 AI Skill》等系列文章，讲 skill 的写法、资产库搭建和多 agent 复用。
