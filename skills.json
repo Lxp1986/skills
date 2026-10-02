@@ -1,6 +1,6 @@
 {
   "repo": "Lxp1986/skills",
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "format": "skill-directory",
   "skills": [
     {
@@ -132,6 +132,18 @@
       "entry": "site-maintenance/SKILL.md",
       "files": [
         "site-maintenance/SKILL.md"
+      ]
+    },
+    {
+      "name": "nvzhuang-video",
+      "description": "女装店短视频运营：爆款与小众选品、AI/真人视频制作、抖音小红书视频号三平台推广、私域沉淀与数据复盘。用于女装穿搭带货、短视频运营全流程。",
+      "path": "nvzhuang-video/",
+      "entry": "nvzhuang-video/SKILL.md",
+      "files": [
+        "nvzhuang-video/SKILL.md",
+        "nvzhuang-video/xuanpin.md",
+        "nvzhuang-video/shipin.md",
+        "nvzhuang-video/tuiguang.md"
       ]
     }
   ]
